@@ -36,7 +36,7 @@
                                         <color key="textColor" name="Title Color"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Gfo-U1-5ED" userLabel="Coin View">
+                                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Gfo-U1-5ED" userLabel="Coin View">
                                         <rect key="frame" x="19" y="85" width="355" height="80"/>
                                         <subviews>
                                             <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="xCo-QW-orG">
